@@ -1,0 +1,33 @@
+#textarea {
+  margin-top: 0.5rem;
+  margin-left: 1rem;
+  width: 100%;
+  height: 50%;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid dodgerblue;
+  font-size: large;
+}
+
+#addbtn {
+  height: 30%;
+  border: none;
+  outline: none;
+  align-self: flex-end;
+  color: dodgerblue;
+  font-size: small;
+  background-color: whitesmoke;
+}
+
+.notevalue {
+  position: absolute;
+  top: 0;
+  left: 4rem;
+  font-size: large;
+}
+
+#title{
+  margin: 1rem;
+  font-size: large;
+  color:royalblue;
+}
